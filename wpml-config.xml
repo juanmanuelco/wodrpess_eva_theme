@@ -1,0 +1,14 @@
+<wpml-config>
+	<admin-texts>
+		<key name="tdl_options">
+			<key name="tdl_topbar_contact_subtitle"/>
+			<key name="tdl_topbar_contact_title"/>			
+			<key name="tdl_contact_subtitle"/>
+			<key name="tdl_contact_title"/>
+			<key name="tdl_out_of_stock_text"/>
+			<key name="tdl_sizechart_title"/>
+			<key name="tdl_instagram_text"/>
+			<key name="tdl_footer_text"/>
+		</key>
+	</admin-texts>
+</wpml-config>

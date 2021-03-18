@@ -1,0 +1,2972 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Eva\n"
+"POT-Creation-Date: 2017-07-11 12:51+0200\n"
+"PO-Revision-Date: 2017-07-11 12:51+0200\n"
+"Last-Translator: Artem Shashkin <temash@gmaiil.com>\n"
+"Language-Team: Artem Shashkin <temash@gmaiil.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:10
+msgid "404"
+msgstr ""
+
+#: 404.php:11
+msgid "Sorry but we couldn&rsquo;t find the page you are looking for."
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"Please check to make sure you&rsquo;ve typed the URL correctly. Maybe try a "
+"search?"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:14
+msgid "Image Header"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:17
+msgid ""
+"Specify the image you want to display at the top of current category page."
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:25 autoimport/custom_metaboxes.php:154
+msgid "Page Header height (px)"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:28 autoimport/custom_metaboxes.php:157
+msgid ""
+"How tall do you want your header? Don't include 'px' in the string. e.g. 450"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:35 autoimport/custom_metaboxes.php:173
+msgid "Header Transparency"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:38 autoimport/custom_metaboxes.php:176
+msgid "Select the content color for Header."
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:40 autoimport/custom_metaboxes.php:178
+msgid "Inherit"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:41 autoimport/custom_metaboxes.php:85
+#: autoimport/custom_metaboxes.php:179
+msgid "Light"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:42 autoimport/custom_metaboxes.php:86
+#: autoimport/custom_metaboxes.php:180
+msgid "Dark"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:75
+msgid "Product Settings"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:80
+msgid "Quick View button color"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:83
+msgid "Select color for Quick View button"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:125 autoimport/custom_metaboxes.php:129
+msgid "Show Title Area"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:128
+msgid "Check this if you want to show/hide page title area."
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:135
+msgid "Page SubTitle"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:138
+msgid "Enter page subtitle."
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:190
+msgid "Disable Bottom Padding"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:193
+msgid "Check to Disable Bottom Padding"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:260
+msgid "Post Type: Link"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:264
+msgid "Link URL"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:267
+msgid "Specify the URL to replace post title permalink."
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:269 includes/menu/edit_custom_walker.php:162
+msgid "URL"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:306
+msgid "Post Type: Quote"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:310
+msgid "Quote Text"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:313
+msgid "Specify the quote text."
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:315
+msgid "Quote text"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:321
+msgid "Quote Author"
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:324
+msgid "Specify the quote author."
+msgstr ""
+
+#: autoimport/custom_metaboxes.php:326
+msgid "Quote author"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34 comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35 comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:79
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:83
+msgid "Name"
+msgstr ""
+
+#: comments.php:85
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:87
+msgid "Website"
+msgstr ""
+
+#: comments.php:93
+msgid "Comment"
+msgstr ""
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:7 content-pagefull.php:4
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-page.php:8 content-pagefull.php:5 includes/content-aside.php:38
+#: includes/content-gallery.php:125 includes/content-link.php:73
+#: includes/content-quote.php:55 includes/content-video.php:66
+#: includes/content.php:96
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:91
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:102
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:120
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:138
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:147
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:156
+msgid "Footer 5"
+msgstr ""
+
+#: functions.php:365
+msgid "Load More Items"
+msgstr ""
+
+#: functions.php:366
+msgid "Loading Items"
+msgstr ""
+
+#: functions.php:367
+msgid "No more items available."
+msgstr ""
+
+#: functions/framework/settings.php:24 functions/framework/settings.php:25
+msgid "Theme Settings"
+msgstr ""
+
+#: functions/framework/settings.php:92
+msgid "General Settings"
+msgstr ""
+
+#: functions/framework/settings.php:99
+msgid "Main Content Max Width"
+msgstr ""
+
+#: functions/framework/settings.php:100
+msgid "This example displays float values"
+msgstr ""
+
+#: functions/framework/settings.php:101
+msgid "Min: 1170, max: 1440, step: 1, default value: 1440"
+msgstr ""
+
+#: functions/framework/settings.php:111
+msgid "Off-canvas Social Media Icons"
+msgstr ""
+
+#: functions/framework/settings.php:112
+msgid "Show social icons in Off-canvas navigation menu"
+msgstr ""
+
+#: functions/framework/settings.php:114 functions/framework/settings.php:193
+#: functions/framework/settings.php:203 functions/framework/settings.php:214
+#: functions/framework/settings.php:225 functions/framework/settings.php:254
+#: functions/framework/settings.php:274 functions/framework/settings.php:284
+#: functions/framework/settings.php:324 functions/framework/settings.php:345
+#: functions/framework/settings.php:370 functions/framework/settings.php:646
+#: functions/framework/settings.php:657 functions/framework/settings.php:1092
+#: functions/framework/settings.php:1103 functions/framework/settings.php:1150
+#: functions/framework/settings.php:1191 functions/framework/settings.php:1201
+#: functions/framework/settings.php:1211 functions/framework/settings.php:1221
+#: functions/framework/settings.php:1287 functions/framework/settings.php:1297
+#: functions/framework/settings.php:1599 functions/framework/settings.php:1740
+#: functions/framework/settings.php:1785
+msgid "Enabled"
+msgstr ""
+
+#: functions/framework/settings.php:115 functions/framework/settings.php:194
+#: functions/framework/settings.php:204 functions/framework/settings.php:215
+#: functions/framework/settings.php:226 functions/framework/settings.php:255
+#: functions/framework/settings.php:275 functions/framework/settings.php:285
+#: functions/framework/settings.php:325 functions/framework/settings.php:346
+#: functions/framework/settings.php:371 functions/framework/settings.php:647
+#: functions/framework/settings.php:658 functions/framework/settings.php:1093
+#: functions/framework/settings.php:1104 functions/framework/settings.php:1151
+#: functions/framework/settings.php:1192 functions/framework/settings.php:1202
+#: functions/framework/settings.php:1212 functions/framework/settings.php:1222
+#: functions/framework/settings.php:1288 functions/framework/settings.php:1298
+#: functions/framework/settings.php:1600 functions/framework/settings.php:1741
+#: functions/framework/settings.php:1786
+msgid "Disabled"
+msgstr ""
+
+#: functions/framework/settings.php:123
+msgid "Google map API key"
+msgstr ""
+
+#: functions/framework/settings.php:124
+msgid ""
+"Obrain API key <a href=\"https://developers.google.com/maps/documentation/"
+"javascript/get-api-key\" target=\"_blank\">here</a> to use our Google Map VC "
+"element."
+msgstr ""
+
+#: functions/framework/settings.php:135 functions/framework/settings.php:142
+msgid "Header Settings"
+msgstr ""
+
+#: functions/framework/settings.php:148
+msgid "Header Paddings (Top/Bottom)"
+msgstr ""
+
+#: functions/framework/settings.php:149
+msgid "Enter Top/Bottom padding (pixels)"
+msgstr ""
+
+#: functions/framework/settings.php:161
+msgid "Header Layout"
+msgstr ""
+
+#: functions/framework/settings.php:162
+msgid "Select the Layout style for the Header."
+msgstr ""
+
+#: functions/framework/settings.php:186 functions/framework/settings.php:190
+msgid "Top Bar"
+msgstr ""
+
+#: functions/framework/settings.php:191
+msgid "Enable / Disable the Top Bar."
+msgstr ""
+
+#: functions/framework/settings.php:200
+msgid "Top Bar Login/My Account"
+msgstr ""
+
+#: functions/framework/settings.php:201
+msgid "Enable / Disable Top Bar Login/My Account link"
+msgstr ""
+
+#: functions/framework/settings.php:211
+msgid "Top Bar Contact"
+msgstr ""
+
+#: functions/framework/settings.php:212
+msgid "Enable / Disable Top Bar Contact section"
+msgstr ""
+
+#: functions/framework/settings.php:222
+msgid "Top Bar Header Contact Section Icon"
+msgstr ""
+
+#: functions/framework/settings.php:223
+msgid "Enable / Disable the Top Bar Contact section Icon in header"
+msgstr ""
+
+#: functions/framework/settings.php:235
+msgid "Top Bar Customer Support bar Subtitle"
+msgstr ""
+
+#: functions/framework/settings.php:236
+msgid "Enter the Top Bar Customer Support bar Subtitle"
+msgstr ""
+
+#: functions/framework/settings.php:244
+msgid "Top Bar Customer Support bar Title"
+msgstr ""
+
+#: functions/framework/settings.php:245
+msgid "Enter the Top Bar Customer Support Title"
+msgstr ""
+
+#: functions/framework/settings.php:251
+msgid "Top Bar Social"
+msgstr ""
+
+#: functions/framework/settings.php:252
+msgid "Enable / Disable Top Bar Social Icons section"
+msgstr ""
+
+#: functions/framework/settings.php:267 functions/framework/settings.php:271
+msgid "Header Contact Section"
+msgstr ""
+
+#: functions/framework/settings.php:272
+msgid "Enable / Disable the Contact section in header"
+msgstr ""
+
+#: functions/framework/settings.php:281
+msgid "Header Contact Section Icon"
+msgstr ""
+
+#: functions/framework/settings.php:282
+msgid "Enable / Disable the Contact section Icon in header"
+msgstr ""
+
+#: functions/framework/settings.php:294
+msgid "Customer Support bar Subtitle"
+msgstr ""
+
+#: functions/framework/settings.php:295
+msgid "Enter the Customer Support bar Subtitle"
+msgstr ""
+
+#: functions/framework/settings.php:303
+msgid "Customer Support bar Title"
+msgstr ""
+
+#: functions/framework/settings.php:304
+msgid "Enter the Customer Support Title"
+msgstr ""
+
+#: functions/framework/settings.php:317 functions/framework/settings.php:321
+msgid "Header Search"
+msgstr ""
+
+#: functions/framework/settings.php:322
+msgid "Enable / Disable the Search in the Header."
+msgstr ""
+
+#: functions/framework/settings.php:338
+msgid "Header My Account Icon"
+msgstr ""
+
+#: functions/framework/settings.php:342
+msgid "My Account Icon"
+msgstr ""
+
+#: functions/framework/settings.php:343
+msgid "Enable / Disable My Account Icon in header."
+msgstr ""
+
+#: functions/framework/settings.php:356
+msgid "Sticky Header"
+msgstr ""
+
+#: functions/framework/settings.php:362
+msgid "Header Sticky Menu"
+msgstr ""
+
+#: functions/framework/settings.php:363
+msgid "Check to enable Header Sticky Menu"
+msgstr ""
+
+#: functions/framework/settings.php:372
+msgid "Header Sticky Menu Show/Hide on Scroll"
+msgstr ""
+
+#: functions/framework/settings.php:373
+msgid ""
+"Check to enable Hide Header Sticky Menu on ScrollDown and Show on ScrollUp. "
+"Disable to Always Show Header Sticky Header."
+msgstr ""
+
+#: functions/framework/settings.php:381
+msgid "Show"
+msgstr ""
+
+#: functions/framework/settings.php:382
+msgid "Hide"
+msgstr ""
+
+#: functions/framework/settings.php:383
+msgid "Sticky Menu on Tablet/Mobile devices"
+msgstr ""
+
+#: functions/framework/settings.php:384
+msgid "Check to Show Hide Header Sticky Menu on Tablet/Mobile devices."
+msgstr ""
+
+#: functions/framework/settings.php:398
+msgid "Logo & Favicon"
+msgstr ""
+
+#: functions/framework/settings.php:406
+msgid "Main Logo"
+msgstr ""
+
+#: functions/framework/settings.php:410
+msgid "Upload your logo image."
+msgstr ""
+
+#: functions/framework/settings.php:413
+msgid "Your Logo Image"
+msgstr ""
+
+#: functions/framework/settings.php:418
+msgid "Upload a higher-resolution image to be used for retina display devices."
+msgstr ""
+
+#: functions/framework/settings.php:421
+msgid "Your Retina Logo Image"
+msgstr ""
+
+#: functions/framework/settings.php:426
+msgid "Upload your logo image for eark backgrounds."
+msgstr ""
+
+#: functions/framework/settings.php:429
+msgid "Your Logo Image for Dark Backgrounds"
+msgstr ""
+
+#: functions/framework/settings.php:434
+msgid ""
+"Upload a higher-resolution logo image to be used for retina display devices."
+msgstr ""
+
+#: functions/framework/settings.php:437
+msgid "Your Retina Logo Image for Dark Backgrounds"
+msgstr ""
+
+#: functions/framework/settings.php:444
+msgid "Logo Width"
+msgstr ""
+
+#: functions/framework/settings.php:445 functions/framework/settings.php:457
+msgid "Enter logo width (px)"
+msgstr ""
+
+#: functions/framework/settings.php:456
+msgid "Logo Height"
+msgstr ""
+
+#: functions/framework/settings.php:468
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: functions/framework/settings.php:472
+msgid "Upload your sticky header logo image."
+msgstr ""
+
+#: functions/framework/settings.php:475
+msgid "Your Sticky Header Logo Image"
+msgstr ""
+
+#: functions/framework/settings.php:480
+msgid ""
+"Upload a higher-resolution sticky header logo image to be used for retina "
+"display devices."
+msgstr ""
+
+#: functions/framework/settings.php:483
+msgid "Your Retina Sticky Header Logo Image"
+msgstr ""
+
+#: functions/framework/settings.php:490
+msgid "Sticky Logo Width"
+msgstr ""
+
+#: functions/framework/settings.php:491
+msgid "Enter sticky logo width (px)"
+msgstr ""
+
+#: functions/framework/settings.php:502
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: functions/framework/settings.php:503
+msgid "Enter sticky logo height (px)"
+msgstr ""
+
+#: functions/framework/settings.php:514
+msgid "Mobile Logo Settings"
+msgstr ""
+
+#: functions/framework/settings.php:520
+msgid "Mobile Logo Max Height"
+msgstr ""
+
+#: functions/framework/settings.php:521
+msgid "Enter mobile logo max height (px)"
+msgstr ""
+
+#: functions/framework/settings.php:533
+msgid "Text Logo Settings"
+msgstr ""
+
+#: functions/framework/settings.php:539
+msgid "Logo Font"
+msgstr ""
+
+#: functions/framework/settings.php:540
+msgid "Specify the logo font properties."
+msgstr ""
+
+#: functions/framework/settings.php:563
+msgid ""
+"Check to show the description (tagline) for your site. Will be displayed "
+"next to a logo."
+msgstr ""
+
+#: functions/framework/settings.php:566
+msgid "Show Logo Tagline"
+msgstr ""
+
+#: functions/framework/settings.php:573
+msgid "Logo Tagline Font"
+msgstr ""
+
+#: functions/framework/settings.php:574
+msgid "Specify the logo Tagline font properties."
+msgstr ""
+
+#: functions/framework/settings.php:603
+msgid "Favicon Settings"
+msgstr ""
+
+#: functions/framework/settings.php:607 functions/framework/settings.php:620
+msgid "Add your custom Favicon image. Upload image: png, ico"
+msgstr ""
+
+#: functions/framework/settings.php:610
+msgid "Favicon"
+msgstr ""
+
+#: functions/framework/settings.php:622
+msgid "Favicon retina image"
+msgstr ""
+
+#: functions/framework/settings.php:637
+msgid "Off-canvas Settings"
+msgstr ""
+
+#: functions/framework/settings.php:643
+msgid "Mobile Off-canvas Search"
+msgstr ""
+
+#: functions/framework/settings.php:644
+msgid "Enable / Disable the Search in off-canvas sidebar in Mobile"
+msgstr ""
+
+#: functions/framework/settings.php:654
+msgid "Off-canvas My Account/Login"
+msgstr ""
+
+#: functions/framework/settings.php:655
+msgid "Enable / Disable the My Account in off-canvas sidebar"
+msgstr ""
+
+#: functions/framework/settings.php:671
+msgid "Typography"
+msgstr ""
+
+#: functions/framework/settings.php:678
+msgid "Main Font"
+msgstr ""
+
+#: functions/framework/settings.php:684
+msgid "Heading Font"
+msgstr ""
+
+#: functions/framework/settings.php:685
+msgid "Specify the heading font properties."
+msgstr ""
+
+#: functions/framework/settings.php:709
+msgid "Header Title Font"
+msgstr ""
+
+#: functions/framework/settings.php:710 functions/framework/settings.php:736
+msgid "Specify the header title font properties."
+msgstr ""
+
+#: functions/framework/settings.php:735
+msgid "Navigation Font"
+msgstr ""
+
+#: functions/framework/settings.php:761 functions/framework/settings.php:767
+msgid "Secondary Font"
+msgstr ""
+
+#: functions/framework/settings.php:768
+msgid "Specify the secondary font properties."
+msgstr ""
+
+#: functions/framework/settings.php:798
+msgid "Styling"
+msgstr ""
+
+#: functions/framework/settings.php:803
+msgid "Select a main color for your site."
+msgstr ""
+
+#: functions/framework/settings.php:806
+msgid "Main Theme Color"
+msgstr ""
+
+#: functions/framework/settings.php:815
+msgid "Color for content of elements (buttons, counters, etc.)"
+msgstr ""
+
+#: functions/framework/settings.php:816
+msgid ""
+"Choose Color Scheme for elements like buttons, counters, menu hover etc. "
+"when you use contrast (darker) Main Color."
+msgstr ""
+
+#: functions/framework/settings.php:832
+msgid "Select a color for website background."
+msgstr ""
+
+#: functions/framework/settings.php:835
+msgid "Background Color"
+msgstr ""
+
+#: functions/framework/settings.php:844
+msgid "Overall Form Style"
+msgstr ""
+
+#: functions/framework/settings.php:845
+msgid "Sets the style of all form elements used."
+msgstr ""
+
+#: functions/framework/settings.php:847 functions/framework/settings.php:1252
+msgid "Default"
+msgstr ""
+
+#: functions/framework/settings.php:848
+msgid "Minimal"
+msgstr ""
+
+#: functions/framework/settings.php:857 functions/framework/settings.php:915
+msgid "Page Loader"
+msgstr ""
+
+#: functions/framework/settings.php:864
+msgid "Page Loader Icon"
+msgstr ""
+
+#: functions/framework/settings.php:865
+msgid "Select the Page Loader Icon"
+msgstr ""
+
+#: functions/framework/settings.php:889
+msgid "Select a color for loader"
+msgstr ""
+
+#: functions/framework/settings.php:892
+msgid "Loader Color"
+msgstr ""
+
+#: functions/framework/settings.php:900
+msgid "Select a color for loader background"
+msgstr ""
+
+#: functions/framework/settings.php:903
+msgid "Loader Background Color"
+msgstr ""
+
+#: functions/framework/settings.php:910
+msgid "Enable/Disable Page Loader"
+msgstr ""
+
+#: functions/framework/settings.php:912 functions/framework/settings.php:985
+#: functions/framework/settings.php:1124
+msgid "Enable"
+msgstr ""
+
+#: functions/framework/settings.php:913 functions/framework/settings.php:986
+#: functions/framework/settings.php:1113 functions/framework/settings.php:1125
+msgid "Disable"
+msgstr ""
+
+#: functions/framework/settings.php:928
+msgid "Header"
+msgstr ""
+
+#: functions/framework/settings.php:937
+msgid "Menu Trigger"
+msgstr ""
+
+#: functions/framework/settings.php:944
+msgid "Menu Trigger Style"
+msgstr ""
+
+#: functions/framework/settings.php:945
+msgid "Select the style of Menu Trigger"
+msgstr ""
+
+#: functions/framework/settings.php:977
+msgid "Shop Settings"
+msgstr ""
+
+#: functions/framework/settings.php:982
+msgid ""
+"Check to enable Catalog Mode. You can hide all \"Add to cart\" buttons, cart "
+"widget, cart and checkout pages. This will allow you to showcase your "
+"products as an online catalog without ability to make a purchase."
+msgstr ""
+
+#: functions/framework/settings.php:1000
+msgid "Shop Catalog"
+msgstr ""
+
+#: functions/framework/settings.php:1006
+msgid "Sidebar Style"
+msgstr ""
+
+#: functions/framework/settings.php:1008
+msgid "On Page"
+msgstr ""
+
+#: functions/framework/settings.php:1009
+msgid "Off-Canvas"
+msgstr ""
+
+#: functions/framework/settings.php:1018
+msgid "Shop Display"
+msgstr ""
+
+#: functions/framework/settings.php:1024
+msgid "Shop Pagination"
+msgstr ""
+
+#: functions/framework/settings.php:1025
+msgid "You can set type of shop pagination"
+msgstr ""
+
+#: functions/framework/settings.php:1027
+msgid "Classic"
+msgstr ""
+
+#: functions/framework/settings.php:1028
+msgid "Load More"
+msgstr ""
+
+#: functions/framework/settings.php:1029
+msgid "Infinite"
+msgstr ""
+
+#: functions/framework/settings.php:1037 functions/framework/settings.php:1044
+msgid "Number of Products per Page"
+msgstr ""
+
+#: functions/framework/settings.php:1038
+msgid "Comma separated list of product counts."
+msgstr ""
+
+#: functions/framework/settings.php:1045 functions/framework/settings.php:1057
+msgid ""
+"Drag the slider to set the number of categories per column to be listed on "
+"the shop page and catalog pages."
+msgstr ""
+
+#: functions/framework/settings.php:1056
+msgid "Number of Categories per Column"
+msgstr ""
+
+#: functions/framework/settings.php:1067
+msgid "Select effect for categories view on hover"
+msgstr ""
+
+#: functions/framework/settings.php:1071
+msgid "Hover Perspective"
+msgstr ""
+
+#: functions/framework/settings.php:1072
+msgid "Hover Zoom"
+msgstr ""
+
+#: functions/framework/settings.php:1074
+msgid "Categories View on Hover"
+msgstr ""
+
+#: functions/framework/settings.php:1079
+msgid "Number of Products per Column"
+msgstr ""
+
+#: functions/framework/settings.php:1080
+msgid ""
+"Drag the slider to set the number of products per column to be listed on the "
+"shop page and catalog pages."
+msgstr ""
+
+#: functions/framework/settings.php:1094
+msgid "Second Image on Hover"
+msgstr ""
+
+#: functions/framework/settings.php:1095
+msgid "Enable / Disable the Second Image on Product Listing."
+msgstr ""
+
+#: functions/framework/settings.php:1101 includes/quick_view.php:44
+msgid "Quick View"
+msgstr ""
+
+#: functions/framework/settings.php:1109
+msgid "Display Category/Categories name in Product Listing"
+msgstr ""
+
+#: functions/framework/settings.php:1114
+msgid "Display All Product Categories"
+msgstr ""
+
+#: functions/framework/settings.php:1115
+msgid "Display Only First Category"
+msgstr ""
+
+#: functions/framework/settings.php:1117
+msgid "Category/Categories name in Product Listing"
+msgstr ""
+
+#: functions/framework/settings.php:1122
+msgid "Show Review Rating in Product Listing"
+msgstr ""
+
+#: functions/framework/settings.php:1131
+msgid "Add to Cart Button Display"
+msgstr ""
+
+#: functions/framework/settings.php:1133
+msgid "When hovering"
+msgstr ""
+
+#: functions/framework/settings.php:1134
+msgid "At all times"
+msgstr ""
+
+#: functions/framework/settings.php:1143
+msgid "Shop Badges"
+msgstr ""
+
+#: functions/framework/settings.php:1147
+msgid "% Sale Badge"
+msgstr ""
+
+#: functions/framework/settings.php:1148
+msgid "Check to enable \"- %\" Badge in percentages instead \"Sale\" Badge"
+msgstr ""
+
+#: functions/framework/settings.php:1157
+msgid "\"Sale\" Badge Label"
+msgstr ""
+
+#: functions/framework/settings.php:1158
+msgid "Type in your custom \"Sale\" Badge Label Text."
+msgstr ""
+
+#: functions/framework/settings.php:1167
+msgid "\"Out of Stock\" Label Text"
+msgstr ""
+
+#: functions/framework/settings.php:1168
+msgid "Type in your custom \"Out of Stock\" Label Text."
+msgstr ""
+
+#: functions/framework/settings.php:1183
+msgid "Product Page"
+msgstr ""
+
+#: functions/framework/settings.php:1188
+msgid "Product Gallery Zoom"
+msgstr ""
+
+#: functions/framework/settings.php:1189
+msgid "Enable / Disable Product Gallery Zoom."
+msgstr ""
+
+#: functions/framework/settings.php:1198
+msgid "Product Gallery Lightbox"
+msgstr ""
+
+#: functions/framework/settings.php:1199
+msgid "Enable / Disable Product Gallery Lightbox."
+msgstr ""
+
+#: functions/framework/settings.php:1208
+msgid "Add to Cart Ajax"
+msgstr ""
+
+#: functions/framework/settings.php:1209
+msgid "Disable the add to cart AJAX on the product page."
+msgstr ""
+
+#: functions/framework/settings.php:1218
+msgid "Size Chart"
+msgstr ""
+
+#: functions/framework/settings.php:1219
+msgid "Enable / Disable Size Chart."
+msgstr ""
+
+#: functions/framework/settings.php:1228
+msgid "\"Size Chart Title"
+msgstr ""
+
+#: functions/framework/settings.php:1229
+msgid "Type your Size Chart Title"
+msgstr ""
+
+#: functions/framework/settings.php:1241
+msgid "Size Chart Page"
+msgstr ""
+
+#: functions/framework/settings.php:1242
+msgid "Select page that will be displayed in Size chart sidebar"
+msgstr ""
+
+#: functions/framework/settings.php:1248
+msgid "Choose between different predefined designs"
+msgstr ""
+
+#: functions/framework/settings.php:1253
+msgid "Images Scroll"
+msgstr ""
+
+#: functions/framework/settings.php:1255
+msgid "Product page design"
+msgstr ""
+
+#: functions/framework/settings.php:1261
+msgid "Product background"
+msgstr ""
+
+#: functions/framework/settings.php:1262
+msgid ""
+"Set background for your products page. You can also specify different "
+"background for particular products while editing it."
+msgstr ""
+
+#: functions/framework/settings.php:1273
+msgid "Number of Related Products per View"
+msgstr ""
+
+#: functions/framework/settings.php:1274
+msgid "Drag the slider to set the number of Related Products per View."
+msgstr ""
+
+#: functions/framework/settings.php:1284 functions/framework/settings.php:1596
+msgid "Sharing Options"
+msgstr ""
+
+#: functions/framework/settings.php:1285
+msgid "Enable / Disable Sharing Options on Product page."
+msgstr ""
+
+#: functions/framework/settings.php:1294
+msgid "Review Tab"
+msgstr ""
+
+#: functions/framework/settings.php:1295
+msgid "Enable / Disable Review Tab on Product page."
+msgstr ""
+
+#: functions/framework/settings.php:1313
+msgid "Social Media / Sharing"
+msgstr ""
+
+#: functions/framework/settings.php:1321
+msgid "Social Network for Sharing"
+msgstr ""
+
+#: functions/framework/settings.php:1328
+msgid "Social Network for Share"
+msgstr ""
+
+#: functions/framework/settings.php:1329
+msgid "Select Social Networks for Share"
+msgstr ""
+
+#: functions/framework/settings.php:1356
+msgid "Social Networks profiles"
+msgstr ""
+
+#: functions/framework/settings.php:1360
+msgid "<i class=\"fa fa-twitter\"></i> Twitter"
+msgstr ""
+
+#: functions/framework/settings.php:1361
+msgid "Type your Twitter profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1368
+msgid "<i class=\"fa fa-facebook\"></i> Facebook"
+msgstr ""
+
+#: functions/framework/settings.php:1369
+msgid "Type your Facebook profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1376
+msgid "<i class=\"fa fa-google-plus\"></i> Google+"
+msgstr ""
+
+#: functions/framework/settings.php:1377
+msgid "Type your Google+ profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1383
+msgid "<i class=\"fa fa-pinterest\"></i> Pinterest"
+msgstr ""
+
+#: functions/framework/settings.php:1384
+msgid "Type your Pinterest profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1391
+msgid "<i class=\"fa fa-vimeo-square\"></i> Vimeo"
+msgstr ""
+
+#: functions/framework/settings.php:1392
+msgid "Type your Vimeo profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1398
+msgid "<i class=\"fa fa-youtube-play\"></i> Youtube"
+msgstr ""
+
+#: functions/framework/settings.php:1399
+msgid "Type your Youtube profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1405
+msgid "<i class=\"fa fa-flickr\"></i> Flickr"
+msgstr ""
+
+#: functions/framework/settings.php:1406
+msgid "Type your Flickr profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1412
+msgid "<i class=\"fa fa-skype\"></i> Skype"
+msgstr ""
+
+#: functions/framework/settings.php:1413
+msgid "Type your Skype profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1419
+msgid "<i class=\"fa fa-behance\"></i> Behance"
+msgstr ""
+
+#: functions/framework/settings.php:1420
+msgid "Type your Behance profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1426
+msgid "<i class=\"fa fa-dribbble\"></i> Dribble"
+msgstr ""
+
+#: functions/framework/settings.php:1427
+msgid "Type your Dribble profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1433
+msgid "<i class=\"fa fa-tumblr\"></i> Tumblr"
+msgstr ""
+
+#: functions/framework/settings.php:1434
+msgid "Type your Tumblr URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1440
+msgid "<i class=\"fa fa-linkedin\"></i> LinkedIn"
+msgstr ""
+
+#: functions/framework/settings.php:1441
+msgid "Type your LinkedIn profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1447
+msgid "<i class=\"fa fa-github\"></i> Github"
+msgstr ""
+
+#: functions/framework/settings.php:1448
+msgid "Type your Github profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1454
+msgid "<i class=\"fa fa-vine\"></i> Vine"
+msgstr ""
+
+#: functions/framework/settings.php:1455
+msgid "Type your Vine profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1461
+msgid "<i class=\"fa fa-instagram\"></i> Instagram"
+msgstr ""
+
+#: functions/framework/settings.php:1462
+msgid "Type your Instagram profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1468
+msgid "<i class=\"fa fa-dropbox\"></i> Dropbox"
+msgstr ""
+
+#: functions/framework/settings.php:1469
+msgid "Type your Dropbox profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1475
+msgid "<i class=\"fa fa-rss\"></i> RSS"
+msgstr ""
+
+#: functions/framework/settings.php:1476
+msgid "Type your RSS Feed URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1482
+msgid "<i class=\"fa fa-stumbleupon\"></i> Stumbleupon"
+msgstr ""
+
+#: functions/framework/settings.php:1483
+msgid "Type your Stumbleupon URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1489
+msgid "<i class=\"fa fa-paypal\"></i> Paypal"
+msgstr ""
+
+#: functions/framework/settings.php:1490
+msgid "Type your Paypal URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1496
+msgid "<i class=\"fa fa-foursquare\"></i> Foursquare"
+msgstr ""
+
+#: functions/framework/settings.php:1497
+msgid "Type your Foursquare profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1503
+msgid "<i class=\"fa fa-soundcloud\"></i> Soundcloud"
+msgstr ""
+
+#: functions/framework/settings.php:1504
+msgid "Type your Soundcloud profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1510
+msgid "<i class=\"fa fa-spotify\"></i> Spotify"
+msgstr ""
+
+#: functions/framework/settings.php:1511
+msgid "Type your Spotify profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1517
+msgid "<i class=\"fa fa-vk\"></i> VKontakte"
+msgstr ""
+
+#: functions/framework/settings.php:1518
+msgid "Type your VK profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1524
+msgid "<i class=\"fa fa-android\"></i> Android"
+msgstr ""
+
+#: functions/framework/settings.php:1525
+msgid "Type your Android URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1531
+msgid "<i class=\"fa fa-apple\"></i> Apple"
+msgstr ""
+
+#: functions/framework/settings.php:1532
+msgid "Type your Apple URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1538
+msgid "<i class=\"fa fa-windows\"></i> Windows"
+msgstr ""
+
+#: functions/framework/settings.php:1539
+msgid "Type your Windows profile URL here."
+msgstr ""
+
+#: functions/framework/settings.php:1553
+msgid "Blog Settings"
+msgstr ""
+
+#: functions/framework/settings.php:1561
+msgid "Blog Layout"
+msgstr ""
+
+#: functions/framework/settings.php:1562
+msgid "Select the layout style for the Blog Listing."
+msgstr ""
+
+#: functions/framework/settings.php:1580
+msgid "Single Blog Post Layout"
+msgstr ""
+
+#: functions/framework/settings.php:1581
+msgid "Select the layout style for the Blog Post."
+msgstr ""
+
+#: functions/framework/settings.php:1597
+msgid "Enable / Disable Sharing Options on Blog single page."
+msgstr ""
+
+#: functions/framework/settings.php:1614
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/framework/settings.php:1619
+msgid "Select how many footer widget areas you want to display."
+msgstr ""
+
+#: functions/framework/settings.php:1624
+msgid "Layout Off"
+msgstr ""
+
+#: functions/framework/settings.php:1628
+msgid "Footer 1 column"
+msgstr ""
+
+#: functions/framework/settings.php:1632
+msgid "Footer 2 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1636
+msgid "Footer 3 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1640
+msgid "Footer 4 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1644
+msgid "Footer 5 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1648
+msgid "Footer 1-1-1-2 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1652
+msgid "Footer 1-1-2 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1656
+msgid "Footer 1-2-1 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1660
+msgid "Footer 2-1-1 columns"
+msgstr ""
+
+#: functions/framework/settings.php:1664
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: functions/framework/settings.php:1671
+msgid "Footer 1 Sidebar Align"
+msgstr ""
+
+#: functions/framework/settings.php:1672
+msgid "Select align for footer 1 sidebar"
+msgstr ""
+
+#: functions/framework/settings.php:1674 functions/framework/settings.php:1686
+#: functions/framework/settings.php:1698 functions/framework/settings.php:1710
+#: functions/framework/settings.php:1722
+msgid "Left Align"
+msgstr ""
+
+#: functions/framework/settings.php:1675 functions/framework/settings.php:1687
+#: functions/framework/settings.php:1699 functions/framework/settings.php:1711
+#: functions/framework/settings.php:1723
+msgid "Right Align"
+msgstr ""
+
+#: functions/framework/settings.php:1683
+msgid "Footer 2 Sidebar Align"
+msgstr ""
+
+#: functions/framework/settings.php:1684
+msgid "Select align for footer 2 sidebar"
+msgstr ""
+
+#: functions/framework/settings.php:1695
+msgid "Footer 3 Sidebar Align"
+msgstr ""
+
+#: functions/framework/settings.php:1696
+msgid "Select align for footer 3 sidebar"
+msgstr ""
+
+#: functions/framework/settings.php:1707
+msgid "Footer 4 Sidebar Align"
+msgstr ""
+
+#: functions/framework/settings.php:1708
+msgid "Select align for footer 4 sidebar"
+msgstr ""
+
+#: functions/framework/settings.php:1719
+msgid "Footer 5 Sidebar Align"
+msgstr ""
+
+#: functions/framework/settings.php:1720
+msgid "Select align for footer 5 sidebar"
+msgstr ""
+
+#: functions/framework/settings.php:1733 functions/framework/settings.php:1737
+msgid "Instagram Feed"
+msgstr ""
+
+#: functions/framework/settings.php:1738
+msgid "Please make sure you have \"WP Instagram Widget\" plugin installed."
+msgstr ""
+
+#: functions/framework/settings.php:1749
+msgid "Instagram username"
+msgstr ""
+
+#: functions/framework/settings.php:1757
+msgid "Link text"
+msgstr ""
+
+#: functions/framework/settings.php:1765
+msgid "Link target"
+msgstr ""
+
+#: functions/framework/settings.php:1768
+msgid "_self"
+msgstr ""
+
+#: functions/framework/settings.php:1769
+msgid "_blank"
+msgstr ""
+
+#: functions/framework/settings.php:1779 functions/framework/settings.php:1783
+msgid "Footer Social Media Icons"
+msgstr ""
+
+#: functions/framework/settings.php:1796
+msgid "Footer Copyright"
+msgstr ""
+
+#: functions/framework/settings.php:1801
+msgid ""
+"Whatever text you enter here will be displayed in your website's footer "
+"area. The primary purpose of this option is to display your website's "
+"Copyright text, but you can enter whatever text you like."
+msgstr ""
+
+#: functions/framework/settings.php:1804
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: functions/framework/settings.php:1818
+msgid "Custom Code"
+msgstr ""
+
+#: functions/framework/settings.php:1823
+msgid ""
+"Paste your custom CSS code here. The code will be added to the header of "
+"your site."
+msgstr ""
+
+#: functions/framework/settings.php:1827
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/framework/settings.php:1831
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+
+#: functions/framework/settings.php:1835
+msgid "Google Analytics / Footer JavaScript Code"
+msgstr ""
+
+#: functions/framework/settings.php:1842
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions/framework/settings.php:1850
+msgid ""
+"\n"
+"                <a href=\"https://temashdesign.ticksy.com/"
+"articles/100007167\" target=\"_blank\"><strong>Eva Theme&#39;s "
+"Documentation</strong></a></br> Everything you need to know about the theme, "
+"from installation and setup to customization.</br></br>\n"
+"                <a href=\"http://codex.wordpress.org/Installing_WordPress\" "
+"target=\"_blank\"><strong>Installing WordPress</strong></a></br> Installing "
+"WordPress</br></br>\n"
+"                <a href=\"https://www.youtube.com/playlist?"
+"list=PLfOXCtnURNbZjLUyU_Isp39VdAjqEctNw\" target=\"_blank"
+"\"><strong>WordPress for Beginners 2015</strong></a></br> WordPress for "
+"Beginners 2015 is a course specifically designed by the great folks from "
+"WordPress Informer for those who want to learn WordPress step-by-step, from "
+"the very beginning.</br></br>\n"
+"                <a href=\"https://docs.woothemes.com/documentation/plugins/"
+"woocommerce/\" target=\"_blank\"><strong>WooThemes Documentation</strong></"
+"a></br> Documentation, Reference Materials, and Tutorials for your WooThemes "
+"products</br></br>\n"
+"                <a href=\"https://www.youtube.com/watch?"
+"v=Cw5vU49ZOWg&list=PLHdG8zvZd0E575Ia8Mu3w1h750YLXNfsC\" target=\"_blank"
+"\"><strong>WooCommerce Guided Tour</strong></a></br> This series of videos "
+"covers anything and everything you&#39;d need to know about installing & "
+"setting up WooCommerce.</br></br>"
+msgstr ""
+
+#: functions/framework/settings.php:1863
+msgid "Demo Importer"
+msgstr ""
+
+#: functions/framework/settings.php:1864
+msgid ""
+"Works best to import on a new install of WordPress. Recommend using the <a "
+"href=\"https://wordpress.org/plugins/wordpress-reset/\" target=\"_blank"
+"\">WordPress Reset plugin</a> before switching between demos. If the "
+"progress bar hangs for quite some time or doesn’t start at all it means that "
+"your server PHP memory settings and max execution time are to low to "
+"complete the process, <a href=\"https://temashdesign.ticksy.com/article/9772/"
+"\">Demo Import Article</a> just need to up your PHP memory limits to at "
+"least 512MB via php.ini and increase your max execution time to 40000, your "
+"hosting provider can assit with this.<br><br>\n"
+"\n"
+"            <strong>Steps to take before using this plugin:</strong></br></"
+"br>\n"
+"            1. The import process will work best on a clean install. You can "
+"use a plugin such as WordPress Reset to clear your data for you.</br>\n"
+"            2. Ensure all plugins are installed beforehand, e.g. WooCommerce "
+"- any plugins that you add content to.</br>\n"
+"            3. Once you start the process, please leave it running and "
+"uninteruppted.</br>\n"
+"            4. Run Woocommerce Setup Wizard.</br>\n"
+"            5. Enjoy</br>"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:334
+#: functions/tgm/plugins.php:122
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:335
+#: functions/tgm/plugins.php:123
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/tgm/class-tgm-plugin-activation.php:337
+#: functions/tgm/plugins.php:124
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: functions/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:340
+#: functions/tgm/plugins.php:125
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: functions/tgm/class-tgm-plugin-activation.php:343
+#: functions/tgm/plugins.php:126
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/tgm/class-tgm-plugin-activation.php:349
+#: functions/tgm/plugins.php:127
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/tgm/class-tgm-plugin-activation.php:355
+#: functions/tgm/plugins.php:132
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/tgm/class-tgm-plugin-activation.php:367
+#: functions/tgm/plugins.php:129
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: functions/tgm/class-tgm-plugin-activation.php:373
+#: functions/tgm/plugins.php:130
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:378
+#: functions/tgm/plugins.php:134
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:388
+#: functions/tgm/plugins.php:135
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:392
+#: functions/tgm/plugins.php:136
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:393
+#: functions/tgm/class-tgm-plugin-activation.php:912
+#: functions/tgm/class-tgm-plugin-activation.php:2618
+#: functions/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:394
+#: functions/tgm/class-tgm-plugin-activation.php:3244
+#: functions/tgm/plugins.php:137
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:395
+#: functions/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: functions/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: functions/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:1019
+#: functions/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:1206
+#: functions/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: functions/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: functions/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: functions/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: functions/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2639
+#: woocommerce/myaccount/my-orders.php:19
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3594
+#: functions/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3594
+#: functions/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: functions/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/tgm/plugins.php:128
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/plugins.php:131
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/plugins.php:133
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/tgm/plugins.php:138
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/theme-options.php:190 includes/content-aside.php:32
+#: includes/content-aside.php:35 includes/content-gallery.php:119
+#: includes/content-gallery.php:122 includes/content-link.php:61
+#: includes/content-link.php:70 includes/content-quote.php:49
+#: includes/content-quote.php:52 includes/content-video.php:60
+#: includes/content-video.php:63 includes/content.php:90
+#: includes/content.php:93
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: functions/theme-options.php:222 functions/theme-options.php:225
+#: woocommerce/single-product/photoswipe.php:53
+msgid "Share"
+msgstr ""
+
+#: functions/theme-options.php:343
+msgid "Previous Reading"
+msgstr ""
+
+#: functions/theme-options.php:347
+msgid "Next Reading"
+msgstr ""
+
+#: functions/theme-options.php:359
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions/theme-options.php:365
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions/theme-options.php:390 functions/theme-options.php:416
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: functions/theme-options.php:396 functions/theme-options.php:422
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions/theme-options.php:420
+msgid " on "
+msgstr ""
+
+#: functions/theme-options.php:433 functions/theme-options.php:468
+msgid " in "
+msgstr ""
+
+#: functions/theme-options.php:451
+msgid "Sticky"
+msgstr ""
+
+#: functions/theme-options.php:455
+msgid " This entry was posted by "
+msgstr ""
+
+#: functions/theme-options.php:457
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions/theme-options.php:474
+msgid " and tagged "
+msgstr ""
+
+#: functions/theme-options.php:491
+msgid "Pingback:"
+msgstr ""
+
+#: functions/theme-options.php:491 functions/theme-options.php:531
+#: includes/content-aside.php:45 includes/content-gallery.php:133
+#: includes/content-link.php:80 includes/content-quote.php:62
+#: includes/content-video.php:73 includes/content.php:103
+#: includes/menu/edit_custom_walker.php:153
+#: woocommerce/myaccount/my-address.php:79
+msgid "Edit"
+msgstr ""
+
+#: functions/theme-options.php:506
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/theme-options.php:509
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/theme-options.php:514
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/woo-options.php:187
+msgid "Reviews"
+msgstr ""
+
+#: functions/woo-options.php:255
+msgid "Previous product"
+msgstr ""
+
+#: functions/woo-options.php:274
+msgid "Next product"
+msgstr ""
+
+#: functions/woo-options.php:302
+msgid "Back"
+msgstr ""
+
+#: header-centered.php:29 header-default.php:28 header-left.php:122
+msgid "Menu"
+msgstr ""
+
+#: header-centered.php:189 header-default.php:183 header-left.php:277
+#: offcanvas-right.php:11
+msgid "Cart"
+msgstr ""
+
+#: header-topbar.php:22 offcanvas-left.php:58
+#: woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr ""
+
+#: header-topbar.php:24 offcanvas-left.php:66
+msgid "Login/Register"
+msgstr ""
+
+#: includes/content-aside.php:55 includes/content-gallery.php:143
+#: includes/content-link.php:90 includes/content-quote.php:72
+#: includes/content-video.php:83 includes/content.php:113
+msgid "No comments yet"
+msgstr ""
+
+#: includes/content-aside.php:56 includes/content-gallery.php:144
+#: includes/content-link.php:91 includes/content-quote.php:73
+#: includes/content-video.php:84 includes/content.php:114
+msgid "1 Comment"
+msgstr ""
+
+#: includes/content-aside.php:57 includes/content-gallery.php:145
+#: includes/content-link.php:92 includes/content-quote.php:74
+#: includes/content-video.php:85 includes/content.php:115
+msgid "% Comments"
+msgstr ""
+
+#: includes/content-aside.php:59 includes/content-gallery.php:147
+#: includes/content-link.php:94 includes/content-quote.php:76
+#: includes/content-video.php:87 includes/content.php:117
+msgid "Comments are off for this post"
+msgstr ""
+
+#: includes/headers/archive-header.php:51
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: includes/headers/archive-header.php:59
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: includes/headers/archive-header.php:62
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: includes/headers/archive-header.php:65
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: includes/headers/archive-header.php:68
+msgid "Asides"
+msgstr ""
+
+#: includes/headers/archive-header.php:71
+msgid "Images"
+msgstr ""
+
+#: includes/headers/archive-header.php:74
+msgid "Videos"
+msgstr ""
+
+#: includes/headers/archive-header.php:77
+msgid "Quotes"
+msgstr ""
+
+#: includes/headers/archive-header.php:80
+msgid "Links"
+msgstr ""
+
+#: includes/headers/archive-header.php:83
+msgid "Archives"
+msgstr ""
+
+#: includes/headers/search-header.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: includes/headers/shop-header.php:106
+msgid "Categories"
+msgstr ""
+
+#: includes/headers/shop-header.php:114
+msgid "All"
+msgstr ""
+
+#: includes/headers/shop-header.php:118
+msgid "Back to All"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/menu/edit_custom_walker.php:104
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/menu/edit_custom_walker.php:108
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:121
+msgid "sub item"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:136
+msgid "Move up"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:149
+msgid "Move down"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:153
+msgid "Edit menu item"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:169
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:175
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:182
+msgid "Open link in a new tab"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:187
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:193
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:199
+msgid "Description"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:201
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:210
+msgid "Background URL"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:219
+msgid "Move"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:220
+msgid "Up one"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:221
+msgid "Down one"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:224
+msgid "To the top"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:230
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:243
+msgid "Remove"
+msgstr ""
+
+#: includes/menu/edit_custom_walker.php:244
+#: woocommerce/myaccount/my-orders.php:84 woocommerce/myaccount/orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:27
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:29
+msgid "Eva Attributes Filter"
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:79
+msgid "Filter by"
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:80
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:85
+msgid "Attribute"
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:91
+msgid "Query type"
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:93
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/woo-attributes-filter.php:94
+msgid "OR"
+msgstr ""
+
+#: offcanvas-left.php:45
+msgid "Wishlist"
+msgstr ""
+
+#: offcanvas-left.php:76
+msgid "Logout"
+msgstr ""
+
+#: offcanvas-right.php:9 woocommerce/cart/mini-cart.php:76
+msgid "No products in the cart."
+msgstr ""
+
+#: offcanvas-right.php:21 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search &hellip;"
+msgstr ""
+
+#: woocommerce/archive-product.php:128
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/archive-product.php:214 woocommerce/archive-product.php:227
+#: woocommerce/content-product_cat.php:43
+#: woocommerce/content-product_cat.php:56
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart-empty.php:33
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:40 woocommerce/cart/mini-cart.php:30
+#: woocommerce/cart/mini-cart.php:81
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:34 woocommerce/cart/cart-totals.php:35
+#: woocommerce/cart/mini-cart.php:94
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:56 woocommerce/cart/cart-totals.php:57
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93 woocommerce/cart/cart-totals.php:94
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:120
+#: woocommerce/myaccount/my-orders.php:20
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:79
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:60 woocommerce/cart/mini-cart.php:53
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138 woocommerce/checkout/form-coupon.php:33
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:167
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:32
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:100
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:63
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:64
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:93
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:98
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:23
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:68
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:15
+#: woocommerce/checkout/form-coupon.php:24
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:16
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:34
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:17
+#: woocommerce/checkout/form-login.php:29
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:18
+#: woocommerce/checkout/form-login.php:30
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:36
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:29
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32 woocommerce/myaccount/my-orders.php:76
+#: woocommerce/myaccount/orders.php:75
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44 woocommerce/checkout/thankyou.php:115
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:64
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:69
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:76
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/content-product.php:114
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/result-count.php:78
+msgid "Showing the single product"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:80
+#, php-format
+msgid "Showing all %d products"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:82
+#, php-format
+msgid "Showing %1$d-%2$d of %3$d products"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:42 woocommerce/loop/sale-flash.php:53
+#, php-format
+msgid "-%s"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:29
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Sign out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:39
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a> "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "Edit account"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:42
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+#: woocommerce/myaccount/form-login.php:93
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:53
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:60
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:64
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:74
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:55
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+#: woocommerce/myaccount/form-login.php:65
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:114
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:87
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:36
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:49
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:43
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:72
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:17
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:18
+msgid "Date"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:59 woocommerce/myaccount/orders.php:55
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:69
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:80 woocommerce/myaccount/orders.php:79
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:31
+msgid "Recent orders"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:67
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:114
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:118
+msgid "Next"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:126
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:128
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:33
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:42
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:48
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:24
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:24
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:27
+msgid "Track"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/photoswipe.php:51
+msgid "Close (Esc)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:55
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:57
+msgid "Zoom in/out"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:74
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:76
+msgid "Next (arrow right)"
+msgstr ""
+
+#: woocommerce/single-product/related.php:40
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Eva"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://eva.temashdesign.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Eva is premium WordPress and WooCommerce theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TemashDesign"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://temashdesign.com"
+msgstr ""
